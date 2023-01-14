@@ -1,2 +1,4 @@
 # Spam_detector
- This program will detect spam from messages in a csv format
+In this program I will create a neural network that detect spam from messages in a csv format.
+
+I also the provide the dataset as spam.csv.
